@@ -37,6 +37,18 @@ h2.cards{
     vertical-align: top;
 }
 
+footer{
+   position: relative;
+   text-align: center;
+   height: 200px;
+   width: 1250px;
+   box-sizing: border-box;
+   padding: 5px;
+   left: 100px;
+   box-shadow: 0px 0px 10px black;
+   top: 450px;
+   background-color: white;
+}
 
 #title{    
     font-size: xx-large;
